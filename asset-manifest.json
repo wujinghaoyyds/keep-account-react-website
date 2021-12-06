@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/keep-account-react-website/static/css/main.9cdda24b.chunk.css",
+    "main.js": "/keep-account-react-website/static/js/main.76136607.chunk.js",
+    "main.js.map": "/keep-account-react-website/static/js/main.76136607.chunk.js.map",
+    "runtime-main.js": "/keep-account-react-website/static/js/runtime-main.ddee494f.js",
+    "runtime-main.js.map": "/keep-account-react-website/static/js/runtime-main.ddee494f.js.map",
+    "static/js/2.f90edc2c.chunk.js": "/keep-account-react-website/static/js/2.f90edc2c.chunk.js",
+    "static/js/2.f90edc2c.chunk.js.map": "/keep-account-react-website/static/js/2.f90edc2c.chunk.js.map",
+    "static/js/3.e5a1f85d.chunk.js": "/keep-account-react-website/static/js/3.e5a1f85d.chunk.js",
+    "static/js/3.e5a1f85d.chunk.js.map": "/keep-account-react-website/static/js/3.e5a1f85d.chunk.js.map",
+    "index.html": "/keep-account-react-website/index.html",
+    "static/css/main.9cdda24b.chunk.css.map": "/keep-account-react-website/static/css/main.9cdda24b.chunk.css.map",
+    "static/js/2.f90edc2c.chunk.js.LICENSE.txt": "/keep-account-react-website/static/js/2.f90edc2c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ddee494f.js",
+    "static/js/2.f90edc2c.chunk.js",
+    "static/css/main.9cdda24b.chunk.css",
+    "static/js/main.76136607.chunk.js"
+  ]
+}
